@@ -1,3 +1,41 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "tsuna@mail.com",
+      "password": "$2a$10$SRPwgmEku.LWOc9DRo1DwO23uuXCpOp45fCf1RVfH1AbdvN6kyQ3S",
+      "id": 1
+    }
+  ],
+  "free": [
+    {
+      "name": "Carro",
+      "userId": 1,
+      "price": 40000,
+      "category": "A",
+      "id": 1
+    },
+    {
+      "name": "Moto",
+      "userId": 1,
+      "price": 3000,
+      "category": "A",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Carro",
+      "userId": 1,
+      "price": 40000,
+      "category": "A",
+      "id": 1
+    },
+    {
+      "name": "Bicicleta",
+      "userId": 1,
+      "price": 300,
+      "category": "A",
+      "id": 2
+    }
+  ]
 }
